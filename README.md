@@ -57,8 +57,8 @@
  <a href="https://www.linkedin.com/in/nandkishore-parmar-3553a4254/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="nandkishoreparmar91@gmail.com" href="mailto:nandkishoreparmar91@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/9752510154" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
-  <a href="https://clonescriptlang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
-    <a title="https://clonescriptlang.netlify.app/" href="https://clonescriptlang.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://nandkishoreparmar.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+    <a title="https://nandkishoreparmar.netlify.app/" href="https://clonescriptlang.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 <br />
 <div>
